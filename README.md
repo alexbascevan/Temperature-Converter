@@ -27,7 +27,7 @@ The Temperature Converter is a simple web application that allows users to conve
 
 1. **Clone the Repository:**
    ```bash
-   git clone [<repository-url>](https://github.com/alexbascevan/TemperatureConverter/)
+   git clone https://github.com/alexbascevan/TemperatureConverter/
    ```
 
 2. **Open the HTML File:**
